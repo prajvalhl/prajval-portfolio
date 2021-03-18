@@ -1,1 +1,1 @@
-A website detailing about myself. Feel free to browse and all suggestions are welcome :)
+A portfolio website where one can know me better, more info will be added in the future.
